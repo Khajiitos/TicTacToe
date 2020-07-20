@@ -1,0 +1,8 @@
+main: me.Khajiitos.tictactoe.Main
+name: TicTacToe
+version: 1.0
+author: Khajiitos
+commands:
+    ttt:
+    tictactoe:
+   
